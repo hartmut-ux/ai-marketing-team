@@ -4,7 +4,7 @@
 
 Built for SMEs, financial services firms, and purpose-driven organizations that need full marketing & communications capability without a 20-person department.
 
-Created by [Hartmut Hübner](https://linkedin.com/in/hartmut-huebner) — AI Marketing Strategist, supported by MMIND.ai brand systems.
+Created by [Hartmut Hübner, PhD](https://linkedin.com/in/hartmuthuebner) — AI Marketing Strategist, Co-Founder MMIND.ai.
 
 ## What This Is
 
@@ -71,7 +71,7 @@ Place skill folders in your Claude Code skills directory:
 
 Clone this repo and install all 11 skills:
 ```bash
-git clone https://github.com/hartmut-huebner/ai-marketing-team.git
+git clone https://github.com/hartmut-ux/ai-marketing-team.git
 ```
 
 ## Customization
@@ -120,11 +120,12 @@ MIT — Use freely. Customize for your organization. Credit appreciated.
 
 ## About Hartmut Hübner
 
-Hartmut Hübner, PhD brings 20 years of corporate communications expertise to AI implementation for European SMEs. This marketing team system represents his methodology for integrating AI tools into communication workflows while maintaining brand consistency and strategic alignment.
+Hartmut Hübner, PhD combines 20 years of corporate communications in large enterprises (Siemens, financial services) with 10 years of transformation, digitalization, and AI experience. Co-founder of several startups, including MMIND.ai. Academic background at LMU Munich and PhD from Salford University (thesis: "The Communicating Company").
+
+This AI Marketing Team represents his methodology for building agentic teams that integrate AI into communication workflows — while maintaining brand consistency, strategic alignment, and stakeholder governance.
 
 **AI is the engine. Communication is the driver.**
 
-The MMIND.ai brand system and visual identity used throughout these skills represent the production design standards referenced and taught by this framework.
-
-→ [LinkedIn](https://linkedin.com/in/hartmut-huebner)
-→ [Flow Factor Newsletter](https://mmind.ai/newsletter)
+→ [LinkedIn](https://linkedin.com/in/hartmuthuebner)
+→ [MMIND.ai Marketplace](https://mmind.space)
+→ [GitHub](https://github.com/hartmut-ux/ai-marketing-team)
