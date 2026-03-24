@@ -118,14 +118,12 @@ Improvements welcome. Please:
 
 MIT — Use freely. Customize for your organization. Credit appreciated.
 
-## About Hartmut Hübner
+## About the Author
 
-Hartmut Hübner, PhD combines 20 years of corporate communications in large enterprises (Siemens, financial services) with 10 years of transformation, digitalization, and AI experience. Co-founder of several startups, including MMIND.ai. Academic background at LMU Munich and PhD from Salford University (thesis: "The Communicating Company").
+**Hartmut Hübner, PhD** combines 20 years of corporate communications in large enterprises (Siemens, financial services) with 10 years of experience in transformation, digitalisation and AI. Co-founder of several startups, including MMIND.ai. Academic background at LMU Munich and PhD from the University of Salford (thesis: *The Communicating Company*).
 
 This AI Marketing Team represents his methodology for building agentic teams that integrate AI into communication workflows — while maintaining brand consistency, strategic alignment, and stakeholder governance.
 
-**AI is the engine. Communication is the driver.**
-
-→ [LinkedIn](https://linkedin.com/in/hartmuthuebner)
-→ [MMIND.ai Marketplace](https://mmind.space)
-→ [GitHub](https://github.com/hartmut-ux/ai-marketing-team)
+- 🌐 [mmind.ai](https://mmind.ai) · [MMIND.ai Marketplace](https://mmind.ai/marketplace)
+- 💼 [LinkedIn](https://linkedin.com/in/hartmutplass)
+- 🐙 [GitHub](https://github.com/hartmut-ux)
