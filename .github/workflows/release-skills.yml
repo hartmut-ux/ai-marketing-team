@@ -1,0 +1,36 @@
+name: Release skill ZIPs
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Package all skills
+        run: |
+          mkdir -p dist
+          for skill_dir in skills/*/; do
+            skill=$(basename "$skill_dir")
+            echo "Packaging $skill"
+            python scripts/package-skill.py "$skill"
+          done
+
+      - name: Upload release assets
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/*.zip
+          generate_release_notes: true
