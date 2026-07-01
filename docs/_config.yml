@@ -8,3 +8,11 @@ header_pages:
 exclude:
   - skills/
   - README.md
+author:
+  name: "Hartmut Hübner"
+  email: "hello@mmind.ai"
+social:
+  name: Hartmut Hübner
+  links:
+    - https://linkedin.com/in/hartmutplass
+    - https://github.com/hartmut-ux
