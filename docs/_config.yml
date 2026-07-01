@@ -1,1 +1,10 @@
-title: Test
+title: "AI Marketing Team — 11 AI Skills for Kimi, Claude & Codex"
+description: "Free AI marketing skills for Kimi Code CLI, Claude Code and Codex CLI. Content strategy, newsletters, performance marketing, PR, internal comms, brand guardian and more."
+url: "https://hartmut-ux.github.io/ai-marketing-team"
+baseurl: ""
+theme: minima
+header_pages:
+  - index.md
+exclude:
+  - skills/
+  - README.md
