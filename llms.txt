@@ -1,0 +1,43 @@
+# Hartmut's AI Marketing Team
+
+A library of 11 production-ready AI skills that together run a complete marketing and communications function for SMEs, financial services firms, and purpose-driven organisations. Each skill works across Kimi Code CLI, Claude Code and Codex CLI.
+
+## What it is
+
+- 11 specialised AI skills covering content strategy, newsletters, performance marketing, brand guardianship, PR, internal comms, change management, stakeholder governance, government affairs, analytics and marketing operations.
+- Multi-platform: every skill ships as `-all.zip`, `-kimi.zip`, `-claude.zip` and `-codex.zip`.
+- Open source under MIT. No SaaS subscription or vendor lock-in.
+- Built on B Corp-aligned governance and communications best practices.
+
+## Key skills
+
+- `content-strategist` — LinkedIn posts, thought leadership, content calendars.
+- `newsletter-editor` — Full newsletter editions with SEO metadata and audio briefings.
+- `performance-marketer` — Ad copy, Google Ads RSAs, A/B tests, campaign optimisation.
+- `brand-guardian` — Visual identity, AI image prompts, design-system enforcement.
+- `pr-media-manager` — Press releases, media pitches, crisis comms.
+- `internal-comms-lead` — Employee newsletters, change announcements, town halls.
+- `change-ci-coach` — AI-adoption sprints, Marginal Gains workshops, resistance management.
+- `stakeholder-comms` — Board reports, investor updates, B Corp-aligned impact reporting.
+- `government-affairs` — Policy papers, lobbying transparency, EU AI Act compliance.
+- `analytics-reporting` — KPI dashboards, campaign ROI, weekly/monthly reports.
+- `marketing-ops` — Budget planning, meeting management, vendors and SOPs.
+
+## How to install
+
+1. Download a skill ZIP from the latest release.
+2. Extract and copy the matching folder:
+   - Kimi: `.kimi/skills/<skill-name>` → `~/.kimi/skills/`
+   - Claude: `.claude/skills/<skill-name>` → `~/.claude/skills/`
+   - Codex: `.codex/skills/<skill-name>` → `~/.codex/skills/`
+3. Invoke the skill by name, e.g. `/content-strategist` in Kimi or `content-strategist` in Claude/Codex.
+
+## Related projects
+
+- AI Legal Team (English): https://github.com/hartmut-ux/ai-legal-team-en
+- AI Legal Team (German): https://github.com/hartmut-ux/ai-legal-team
+- B Corp Navigator: https://github.com/hartmut-ux/ai-bcorp-team-en
+
+## Live page
+
+https://hartmut-ux.github.io/ai-marketing-team/

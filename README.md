@@ -107,6 +107,12 @@ Two B Lab standards are embedded throughout:
 - **PSG** (Purpose & Stakeholder Governance): Ensures responsible marketing, stakeholder consideration, transparent reporting
 - **GACA** (Government Affairs & Collective Action): Ensures responsible lobbying, collective impact, tax transparency
 
+## Related projects
+
+- **AI B Corp Team** — 10 AI skills for B Corp certification and impact reporting: https://github.com/hartmut-ux/ai-bcorp-team-en
+- **AI Legal Team (English)** — 9 AI legal skills for mid-market law firms: https://github.com/hartmut-ux/ai-legal-team-en
+- **AI Legal Team (German)** — 9 KI-rechtliche Skills für mittelgrosse Kanzleien: https://github.com/hartmut-ux/ai-legal-team
+
 ## License
 
 MIT — Use freely. Customize for your organization. Credit appreciated.
