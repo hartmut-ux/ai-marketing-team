@@ -107,6 +107,23 @@ Two B Lab standards are embedded throughout:
 - **PSG** (Purpose & Stakeholder Governance): Ensures responsible marketing, stakeholder consideration, transparent reporting
 - **GACA** (Government Affairs & Collective Action): Ensures responsible lobbying, collective impact, tax transparency
 
+## Frequently asked questions
+
+### What is an AI skill?
+An AI skill is a reusable instruction pack that teaches your AI assistant how to perform a specific marketing task with consistent quality and fewer prompts.
+
+### Do these skills work with Kimi, Claude and Codex?
+Yes. Every skill ships with wrappers for Kimi Code CLI, Claude Code and Codex CLI.
+
+### Do I need to pay or create an account?
+No. All skills are released under the MIT License and require no subscription.
+
+### Can I use the same skill on multiple assistants?
+Yes. Download the `-all.zip` file and copy the wrappers for each assistant.
+
+### What makes this different from generic AI marketing tools?
+These skills also cover internal communications, change management, stakeholder governance and government affairs — areas where most generic tools fall short.
+
 ## Related projects
 
 - **AI B Corp Team** — 10 AI skills for B Corp certification and impact reporting: https://github.com/hartmut-ux/ai-bcorp-team-en
